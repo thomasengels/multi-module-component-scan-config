@@ -1,4 +1,4 @@
-package org.comany.axon.event;
+package org.company.axon.event;
 
 public class IntegrationEvent {
 }

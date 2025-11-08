@@ -1,7 +1,7 @@
-package org.comany.axon.listeners;
+package org.company.axon.listeners;
 
 import org.axonframework.eventhandling.EventHandler;
-import org.comany.axon.event.IntegrationEvent;
+import org.company.axon.event.IntegrationEvent;
 import org.springframework.stereotype.Service;
 
 @Service
